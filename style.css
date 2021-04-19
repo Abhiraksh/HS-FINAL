@@ -1,0 +1,24 @@
+.tlt{
+    display: flex;
+    justify-content: center;
+
+}
+.st{
+    display: flex;
+    justify-content: center;
+    
+}
+.t{
+    display: flex;
+    justify-content: center;
+    
+}
+.y{
+   
+    display: flex;
+    justify-content:flex-end;
+    
+}
+body{
+     background-color:lightgreen;
+}
